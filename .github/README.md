@@ -88,7 +88,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Userbot33335/BILLASTRINGBOT)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/Userbot33335/BILLASTRINGBOT)</b>
+- <b>[BILLA](https://github.com/Userbot33335/BILLASTRINGBOT)  ғᴏʀ  [BILLA](https://github.com/Userbot33335/BILLASTRINGBOT)</b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
 - <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
 
